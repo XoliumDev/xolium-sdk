@@ -1,0 +1,11 @@
+[features]
+seeds = false
+skip-lint = false
+
+[programs.localnet]
+
+[provider]
+cluster = "localnet"
+wallet = "~/.config/solana/id.json"
+
+[scripts]
